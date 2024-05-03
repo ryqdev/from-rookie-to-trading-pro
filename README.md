@@ -15,6 +15,7 @@ My experience and knowledge in trading.
 - [Tradingview](https://www.tradingview.com/): Learn pine script if you want to write code to backtest in Tradingview.
 - [QuantConnect](https://www.quantconnect.com): wonderful platform for strategies research.
 - Quantopian: but it closed in Nov. 2020. What a pity!
+- [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal): Open source financial terminal
 - [Joinquant](https://www.joinquant.com/): For China stocks
 
 
