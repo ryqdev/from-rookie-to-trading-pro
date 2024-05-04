@@ -5,13 +5,13 @@ My experience and knowledge in trading.
 
 - Second, remember, sometimes, the price of 'free' isn't evident until later — it often comes with a hidden price tag.
 
-## News Platforms
+## News Sources
 - [WSJ](https://www.wsj.com/)
 - [Bloomberg](https://www.bloomberg.com/) 
 - [Caixin](https://www.caixin.com/): for Chinese Readers
 
 
-## Backtest and Strategies Research Platforms
+## Trading Platforms
 - [Tradingview](https://www.tradingview.com/): Learn pine script if you want to write code to backtest in Tradingview.
 - [QuantConnect](https://www.quantconnect.com): wonderful platform for strategies research.
 - Quantopian: but it closed in Nov. 2020. What a pity!
