@@ -29,3 +29,4 @@ If you are interesting with opening an accout for trading, please use my IBKR in
 ## Python Libraries for Trading 
 - [streamlit](https://github.com/streamlit/streamlit): A fast way to build visualization for trading data.
 - [TA-Lib](https://github.com/TA-Lib/ta-lib): Technical analysis library for trading. BTW, installing TA-lib is easy in Linux and MacOS with one command but really inconvenient in Windows.
+- [Flask](https://github.com/pallets/flask): The web application framework of Python. Compared with [django](https://github.com/django/django), I prefer Flask cause it's much easier to use.
