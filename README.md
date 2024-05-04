@@ -9,17 +9,14 @@ My experience as a programmer and individual investor.
 - [WSJ](https://www.wsj.com/)
 - [Bloomberg](https://www.bloomberg.com/) - [Caixin](https://www.caixin.com/): for Chinese Readers
 
-
 ## Trading Platforms
-### Stocks
 - [Tradingview](https://www.tradingview.com/): Learn pine script if you want to write code to backtest in Tradingview.
 - [QuantConnect](https://www.quantconnect.com): Wonderful platform for strategies research, which supporting `LEAN` Engine.
 - Quantopian: but it closed in Nov. 2020. What a pity!
 - [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal): Open source financial terminal.
 - [Joinquant](https://www.joinquant.com/): For China stocks.
-### Crypto
-- [freqtrade](https://www.freqtrade.io/en/stable/)
-
+- [Alpaca](https://alpaca.markets/)
+- [freqtrade](https://www.freqtrade.io/en/stable/): Mainly for crypto trading.
 
 ## Brokerage Firms
 Currently, I am using [IBKR](https://www.interactivebrokers.com/en/home.php)
