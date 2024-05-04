@@ -1,5 +1,5 @@
 # from-rookie-to-trading-pro
-My experience and knowledge in trading.
+My experience as a programmer and individual investor.
 
 - First of all, `delete` short video platforms which are waste of time.
 
@@ -30,3 +30,6 @@ If you are interesting with opening an accout for trading, please use my IBKR in
 - [streamlit](https://github.com/streamlit/streamlit): A fast way to build visualization for trading data.
 - [TA-Lib](https://github.com/TA-Lib/ta-lib): Technical analysis library for trading. BTW, installing TA-lib is easy in Linux and MacOS with one command but really inconvenient in Windows.
 - [Flask](https://github.com/pallets/flask): The web application framework of Python. Compared with [django](https://github.com/django/django), I prefer Flask cause it's much easier to use.
+
+## Network Tools
+- [ngrok](https://github.com/ngrok): Unified ingress tool.
