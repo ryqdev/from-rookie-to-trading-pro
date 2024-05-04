@@ -12,11 +12,14 @@ My experience and knowledge in trading.
 
 
 ## Trading Platforms
+### Stocks
 - [Tradingview](https://www.tradingview.com/): Learn pine script if you want to write code to backtest in Tradingview.
-- [QuantConnect](https://www.quantconnect.com): wonderful platform for strategies research.
+- [QuantConnect](https://www.quantconnect.com): Wonderful platform for strategies research, which supporting `LEAN` Engine.
 - Quantopian: but it closed in Nov. 2020. What a pity!
-- [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal): Open source financial terminal
-- [Joinquant](https://www.joinquant.com/): For China stocks
+- [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal): Open source financial terminal.
+- [Joinquant](https://www.joinquant.com/): For China stocks.
+### Crypto
+- [freqtrade](https://www.freqtrade.io/en/stable/)
 
 
 ## Brokerage Firms
