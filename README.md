@@ -7,8 +7,7 @@ My experience and knowledge in trading.
 
 ## News Sources
 - [WSJ](https://www.wsj.com/)
-- [Bloomberg](https://www.bloomberg.com/) 
-- [Caixin](https://www.caixin.com/): for Chinese Readers
+- [Bloomberg](https://www.bloomberg.com/) - [Caixin](https://www.caixin.com/): for Chinese Readers
 
 
 ## Trading Platforms
@@ -26,3 +25,7 @@ My experience and knowledge in trading.
 Currently, I am using [IBKR](https://www.interactivebrokers.com/en/home.php)
 
 If you are interesting with opening an accout for trading, please use my IBKR invite link:  [https://ibkr.com/referral/yukun255](https://ibkr.com/referral/yukun255)
+
+## Python Libraries for Trading 
+- [streamlit](https://github.com/streamlit/streamlit): A fast way to build visualization for trading data.
+- [TA-Lib](https://github.com/TA-Lib/ta-lib): Technical analysis library for trading. BTW, installing TA-lib is easy in Linux and MacOS with one command but really inconvenient in Windows.
