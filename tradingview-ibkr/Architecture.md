@@ -20,7 +20,10 @@ The orange part is what we should do.
 
 ![img.png](python-arch.png)
 
-Why MQ? Increase throughput.
+Why MQ? 
+1. Increase throughput.
+2. decouple the components, e.g. I can use Python programs as producers and C++ programs as consumers.
+
 
 
 Redis subscribe/publish model, MQ
@@ -85,3 +88,19 @@ There are three kind of APIs from IBK: Web API, FIX API and TWS API
 I choose TWS API
 
 [Installation Instructions](https://www.interactivebrokers.com/en/index.php?f=16042)
+
+
+Login with paper trading account
+![img.png](IBKR-paper-trading.png)
+
+[TWS API Documentation](https://ibkrcampus.com/ibkr-api-page/twsapi-doc/)
+
+The important part should be:
+
+![img.png](IBKR-api-settings.png)
+
+### Connect IBKR TWS with Python 
+I will use ib_insync.
+
+[ib_insync](https://github.com/erdewit/ib_insync): Unfortunately, the author Ewald de Wit passed away in 2024. R.I.P
+
