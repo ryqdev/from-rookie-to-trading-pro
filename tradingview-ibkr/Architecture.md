@@ -16,6 +16,9 @@ Linux 6.5.3-1-MANJARO x86_64 GNU/Linux
 
 The orange part is what we should do.
 
+### The process of developing a strategy
+
+
 ## Python Architecture
 
 ![img.png](python-arch.png)
