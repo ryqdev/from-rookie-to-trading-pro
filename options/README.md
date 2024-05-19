@@ -20,9 +20,19 @@ Option Greeks are financial metrics that can be used to measure the price of opt
 - Rho: Measures impact of interest rates.
 
 ## Black-Scholes Model
+TODO
 
 
 ## Put-Call Parity
 It will help us further the understanding of options. 
 
 Put and Call option can convert in some scenarios.
+
+$ P + S = C + PV(x) $
+
+Where:
+- C: Price of the `European` call option 
+- PV(x): Present value of the strike price (x), discounted from the value on the expiration
+date at the risk-free rate 
+- P: Price of the European put 
+- S: Spot price or the current market value of the underlying asset
