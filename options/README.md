@@ -1,6 +1,12 @@
 # Options
 My learning experience with options, the contracts giving the owner the right to buy or sell an asset at strike price
 
+## What is secirities
+Securities are fungible and tradable financial instruments used to raise capital in public and private markets. There are primarily three types of securities: 
+1. equity: which provides ownership rights to holders
+2. debt: essentially loans repaid with periodic payments
+3. hybrids: combine aspects of debt and equity.
+
 ## Basic Option Types
 There are two types of option:
 - Call Option: The buyer has the right to `buy` a certain stock at `strike price` up until a defined `expiration date`
